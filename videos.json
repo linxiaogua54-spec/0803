@@ -1,0 +1,42 @@
+[
+  {
+    "id": "v_demo_1",
+    "title": "内景01",
+    "cover": "https://raw.githubusercontent.com/linxiaogua54-spec/0803/main/covers/indoor_01.jpg",
+    "url": "https://raw.githubusercontent.com/linxiaogua54-spec/0803/main/%E5%86%85%E6%99%AF.mp4",
+    "duration": 15,
+    "category": "indoor",
+    "featured": true,
+    "createTime": "2026-08-01"
+  },
+  {
+    "id": "v_demo_2",
+    "title": "自拍01",
+    "cover": "https://raw.githubusercontent.com/linxiaogua54-spec/0803/main/covers/self_01.jpg",
+    "url": "https://raw.githubusercontent.com/linxiaogua54-spec/0803/main/%E8%87%AA%E6%8B%8D%E5%86%85%E6%99%AF.mp4",
+    "duration": 10,
+    "category": "self",
+    "featured": true,
+    "createTime": "2026-08-01"
+  },
+  {
+    "id": "v_demo_3",
+    "title": "外景01",
+    "cover": "https://raw.githubusercontent.com/linxiaogua54-spec/0803/main/covers/outdoor_01.jpg",
+    "url": "https://raw.githubusercontent.com/linxiaogua54-spec/0803/main/%E5%A4%96%E6%99%AF.mp4",
+    "duration": 13,
+    "category": "outdoor",
+    "featured": true,
+    "createTime": "2026-08-01"
+  },
+  {
+    "id": "v_demo_4",
+    "title": "口播01",
+    "cover": "https://raw.githubusercontent.com/linxiaogua54-spec/0803/main/covers/voice_01.jpg",
+    "url": "https://raw.githubusercontent.com/linxiaogua54-spec/0803/main/%E5%8F%A3%E6%92%AD.mp4",
+    "duration": 47,
+    "category": "voice",
+    "featured": true,
+    "createTime": "2026-08-01"
+  }
+]
